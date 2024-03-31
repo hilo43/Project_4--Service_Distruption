@@ -6,3 +6,22 @@ Data understanding: The data set is in a relational format, split among multiple
 The following provides a description of data in each file.
 
 ![image](https://github.com/hilo43/Project_4--Service_Distruption/assets/65922366/6f0044c1-1d01-4199-9592-dd1dc7e6af9e)
+
+Event Type Data
+![image](https://github.com/hilo43/Project_4--Service_Distruption/assets/65922366/c074e38c-4958-4a79-9fb7-dde906aa33cd)
+
+Log Feature Data
+
+![image](https://github.com/hilo43/Project_4--Service_Distruption/assets/65922366/28bf062b-71a5-4b56-87b7-b851eea22fc5)
+
+Resource Type Data
+
+![image](https://github.com/hilo43/Project_4--Service_Distruption/assets/65922366/13c29e93-76a2-45a5-b65b-c2aa835a1594)
+
+Severity Type Data
+![image](https://github.com/hilo43/Project_4--Service_Distruption/assets/65922366/c84359b6-d624-4a59-9f3c-98edb2d343bf)
+
+
+
+
+
